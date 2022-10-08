@@ -19,7 +19,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Motherbored Docs`}
       description="A Private Path">
       <HomepageHeader />
       <main>
