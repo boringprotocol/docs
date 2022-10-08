@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Boring Protocol',
   tagline: 'A Private Path',
-  url: 'https://boringprotocol.github.io/docs/',
+  url: 'https://docs.motherbored.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
