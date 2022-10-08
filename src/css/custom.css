@@ -1,0 +1,47 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100&display=swap');
+
+:root {
+  --ifm-font-size-base: 14px;
+  --ifm-font-family-base: 'JetBrains Mono', monospace;
+  --ifm-color-primary: #666666;
+  --ifm-color-primary-dark: #5B5B5B;
+  --ifm-color-primary-darker: #565656;
+  --ifm-color-primary-darkest: #474747;
+  --ifm-color-primary-light: #707070;
+  --ifm-color-primary-lighter: #757575;
+  --ifm-color-primary-lightest: #848484;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+article header h1 {
+  font-size: 1.5rem !important;
+}
+.hero .hero__title {
+  font-size: 2.5rem;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+html[data-theme='dark'] {
+  --ifm-background-color: #1A1B1E;
+  --ifm-background-surface-color: #1A1B1E;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #8F8F8F;
+  --ifm-color-primary-dark: #818181;
+  --ifm-color-primary-darker: #7A7A7A;
+  --ifm-color-primary-darkest: #646464;
+  --ifm-color-primary-light: #9D9D9D;
+  --ifm-color-primary-lighter: #A2A2A2;
+  --ifm-color-primary-lightest: #AFAFAF;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
