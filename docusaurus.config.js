@@ -65,10 +65,6 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        copyright: `${new Date().getFullYear()} Boring Protocol`,
-      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
