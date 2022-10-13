@@ -5,7 +5,7 @@ sidebar_position: 5
 # Configuration Basics
 
 UPDATED - V1 to V2 upgrade instructions:
-*Instructions subject to change based on continued fixes and upgrades: 
+*Instructions subject to change based on continued bug fixes and upgrades:
 
 1. Download Phantom (Solana wallet)
 2. Go to https://motherbored.app/
