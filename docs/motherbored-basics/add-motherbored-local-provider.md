@@ -4,4 +4,4 @@ sidebar_position: 2
 
 # Add Local Provider
 
-Lorem ipsum dolor sit amet, consectetur adipisici elit
+Instructions written by the lords of web3 of documentation are coming soon!
