@@ -7,7 +7,7 @@ sidebar_position: 1
 
 ## What Is the Boring Protocol? :
 
-1. Boring Protocol is a decentralized VPN (dVPN) and bandwidth market built on the Solana Blockchain. Boring Protocol brings decentralized VPN to market utilizing the privacy of web3-based authentication and payments with token incentives for node operators designed to organically grow Boring's global people-built, inherently censorship-resistant network.
+1. Boring Protocol is a web3-based decentralized VPN (dVPN) and bandwidth market built on the Solana Blockchain. Boring Protocol brings decentralized VPN to market utilizing the privacy of web3-based authentication and payments with token incentives for node operators designed to organically grow Boring's global people-built, inherently censorship-resistant network.
  
 2. Trading under BOP, Boring is a decentralized virtual private network built on blockchain technology. The project aims to provide a peer-to-peer bandwidth market. Boring is a protocol that aims to help conduct transactions between node providers and bandwidth users.
 
