@@ -19,4 +19,3 @@ Go to CoinMarketCap and search for Boring Protocol. Tap on the button labeled â€
 ## What Is a MotherBored? :
 
 1. A MotherBored is the name for our decentralized poeople owned and deployed newrork node providing dVPN access.
-2. 
