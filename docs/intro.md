@@ -16,6 +16,7 @@ Go to CoinMarketCap and search for Boring Protocol. Tap on the button labeled â€
 4. BOP has a supply of 2,000,000,000 coins. If you would like to know where to buy Boring at the current rate, the top cryptocurrency exchanges for trading in BoringDAO stock are currently OKX, MEXC, Bitrue, BingX, and Gate.io. You can find others listed on our crypto exchanges page.
 
 
-## What Is a MotherBored? :
+## What Is a MotherBored? : 
 
 1. A MotherBored is the name for our decentralized poeople owned and deployed newrork node providing dVPN access.
+2. Available now!: [Motherbored is in stock and ready to ship - visit our store! ](https://store.motherbored.limited/products/boring-protocol-mbv2) 
