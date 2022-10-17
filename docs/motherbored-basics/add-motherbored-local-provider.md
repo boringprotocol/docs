@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Add Local Provider
 
-Instructions written by the lords of web3 documentation!
+Instructions are subject to change based on develpoer updates:
 
 1. Select ‘Add Motherbored Provider’
     d. Choose your option, then press INSTALL CONFIG (only once). The Node will download and reboot. (It might take a few min the first time)
