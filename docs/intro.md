@@ -17,7 +17,7 @@ sidebar_position: 1
 
 3. Where can I buy boring tokens?
 Go to CoinMarketCap and search for Boring Protocol. Tap on the button labeled “Market” near the price chart. In this view, you will see a complete list of places you can purchase Boring Protocol as well as the currencies you can use to obtain it.
-4. BOP has a supply of 2,000,000,000 coins. If you would like to know where to buy Boring at the current rate, the top cryptocurrency exchanges for trading in BoringDAO stock are currently OKX, MEXC, Bitrue, BingX, and Gate.io. You can find others listed on our crypto exchanges page.
+BOP has a supply of 2,000,000,000 coins. If you would like to know where to buy/swap BOP at the current rate use Jupiter aggregator!: [Click here to visit Jupiter swap aggregator on Solana.](https://jup.ag/swap/SOL-BOP).
 
 
 ## What Is a MotherBored? : 
