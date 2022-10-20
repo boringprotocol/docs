@@ -3,9 +3,11 @@ sidebar_position: 8
 ---
 
 # Next Features
-Rocking in the free world!
+ 
 
-1. Working on the following updates. Pushing the following to the app.
-- bug report form (feed to notion)
-- known issues list
+## - Working on the following updates:
+
+- Bug report form - to submit bug reports
+- Jnown issues list - lise all issues being worked
+- Add node status and country in provider access list 
 - links to specific docs (add consumer/provider/cloud/etc)
