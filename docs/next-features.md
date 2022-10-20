@@ -11,3 +11,5 @@ sidebar_position: 8
 - Known bug list - list all issues/bugs being worked
 - Add node status and country in provider access list 
 - links to specific docs (add consumer/provider/cloud/etc)
+- Staking
+- Add network metrics
