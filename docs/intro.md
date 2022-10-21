@@ -17,7 +17,7 @@ sidebar_position: 1
 
 - Where can I buy boring tokens?
 Go to CoinMarketCap and search for Boring Protocol. Tap on the button labeled “Market” near the price chart. In this view, you will see a complete list of places you can purchase Boring Protocol as well as the currencies you can use to obtain it.
-BOP has a supply of 2,000,000,000 coins. If you would like to know where to buy/swap BOP at the current rate use Jupiter aggregator!: [Click here to visit Jupiter swap aggregator on Solana.](https://jup.ag/swap/SOL-BOP). Radium!: [Click here to visit RADIUM! ](https://raydium.io/). Or, ORCA!: [Click here to visit Orca - a friendly DEX on Solana](https://www.orca.so/).
+BOP has a supply of 250,000,000 coins. If you would like to know where to buy/swap BOP at the current rate use Jupiter aggregator!: [Click here to visit Jupiter swap aggregator on Solana.](https://jup.ag/swap/SOL-BOP). Radium!: [Click here to visit RADIUM! ](https://raydium.io/). Or, ORCA!: [Click here to visit Orca - a friendly DEX on Solana](https://www.orca.so/).
 
 
 ## What Is a MotherBored? : 
