@@ -13,3 +13,5 @@ sidebar_position: 8
 - links to specific docs (add consumer/provider/cloud/etc)
 - Staking
 - Add network metrics
+- Post anything you'd like to see in our discord
+- Your patience is appreciated
