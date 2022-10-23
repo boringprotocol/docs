@@ -4,14 +4,13 @@ sidebar_position: 8
 
 # Next Features
  
+<b>Working on the following updates:</b>
 
-## - Working on the following updates:
-
-- Bug report form - to submit bug reports
-- Known bug list - list all issues/bugs being worked
+- Bug report form
+- Bug list
 - Add node status and country in provider access list 
-- links to specific docs (add consumer/provider/cloud/etc)
+- Links to specific docs (add consumer/provider/cloud/etc)
 - Staking
 - Add network metrics
-- Post anything you'd like to see in our discord
-- Your patience is appreciated
+
+Post anything you'd like to see in our Discord. Your patience is appreciated
