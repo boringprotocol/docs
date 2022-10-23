@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Mission Statement: 
 
-- Boring Protocol is purpose-built to become ubiquitous and inclusive by providing earning potential and no-cost communications for all dVPN node operators. Boring Protocol enables individuals worldwide to earn token rewards by distributing our environmentally friendly dVPN nodes with organic decentralized robust connectivity. These hardware nodes provide the public with the ability to communicate in an anonymous, secure, obfuscated, and low-cost manner across the world. Thereby helping to grow a self-sustaining borderless, inherently censorship-resistant, low-cost network for the next billion people.
+- Boring Protocol enables individuals worldwide to earn token rewards by linking our environmentally friendly dVPN nodes with organic decentralized robust connectivity. Boring Protocol is purpose-built to become ubiquitous and inclusive by providing earning potential and no-cost communications for all dVPN node operators. These hardware nodes provide the public with the ability to communicate in an anonymous, secure, obfuscated, and low-cost manner across the world. Thereby helping to grow a self-sustaining borderless, inherently censorship-resistant, low-cost network for the next billion people.
 
 
 ## What Is Boring Protocol? :
