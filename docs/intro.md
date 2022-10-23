@@ -16,7 +16,7 @@ Boring Protocol is a Web3-powered decentralized VPN, <i>or dVPN</i> built on the
 ## Where can I buy BOP tokens?
 
 Go to CoinMarketCap and search for Boring Protocol and tap on the button labeled “Market” near the price chart. In this view, you will see a complete list of exchanges that carry the BOP token.
-BOP has a max supply of 250,000,000. If you would like to know where to buy/swap BOP at the current rate use Jupiter aggregator!: [Click here to visit Jupiter swap aggregator on Solana.](https://jup.ag/swap/SOL-BOP). Radium!: [Click here to visit RADIUM! ](https://raydium.io/). Or, ORCA!: [Click here to visit Orca - a friendly DEX on Solana](https://www.orca.so/).
+BOP has a max supply of 250,000,000. If you would like to know where to buy/swap BOP at the current rate use [Jupiter aggregator](https://jup.ag/swap/SOL-BOP), [Radium](https://raydium.io/), or [ORCA ](https://www.orca.so/).
 
 
 ## What Is a MotherBored? 
