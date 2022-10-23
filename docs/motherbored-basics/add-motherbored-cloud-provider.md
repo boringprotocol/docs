@@ -6,7 +6,7 @@ sidebar_position: 3
 
 
 1. First create a Provider Peer in the Motherbored interface at https://motherbored.app
-2. Download boring.env and use this config on your server at /boot/boring.env )
+2. Download boring.env and use this config on your server at /boot/boring.env
 
 ## SSH into your server
 
@@ -22,7 +22,7 @@ and save.
 
 ## The Boring Installer
 
-download and run the installer
+Download and run the installer.
 
 ```
 wget https://s3.us-east-2.amazonaws.com/boringfiles.dank.earth/install.sh
@@ -34,9 +34,9 @@ Congrats, you're done!
 
 
 ---
-### forgot to get the config? or need to use a different config 
+### Forgot to get the config? or need to use a different config 
 
-edit the /boot/boring.env and:
+Edit the /boot/boring.env and:
 
 ```
 systemctl restart boring
