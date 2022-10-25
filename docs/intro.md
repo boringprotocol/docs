@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
+![](../images/banner1.png)
 # MotherBored Intro
 
 ## Mission Statement: 
