@@ -3,6 +3,7 @@ sidebar_position: 5
 ---
 
 ## - Upgrade to Boring Protocol V2 -
+
 ---
 ATTENTION: - PLEASE UPGRADE YOUR NODE TO V2 - <i>NOTE: Even if you recieved a new V2 in the mail you will need to update the firmware to the new verson of V2 by following these instructions. Subject to change based on continued bug fixes and upgrades:</i>
 
@@ -27,4 +28,4 @@ ATTENTION: - PLEASE UPGRADE YOUR NODE TO V2 - <i>NOTE: Even if you recieved a ne
 16. ** NOTE: If you plan to run multiple boring nodes, be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save. 
 17. Once finished, your node should be ready to use. If set to consumer mode, make sure to pick your peer in the list, then simply connect any devices you'd like to 'boring' WiFi and bore a secure path through your very own dVPN node!
 
-Thanks for your patience, Boperators!!
+<b>Thank you for your patience, Boperators!!
