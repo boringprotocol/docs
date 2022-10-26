@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-## Configuration Basics - Upgrade to V2!
+## - Upgrade to Boring Protocol V2 -
 ---
 ATTENTION: - PLEASE UPGRADE ALL NODES TO V2 - <i>NOTE: Even if you recieved a new V2 in the mail you will need to update the firmware to the new verson of V2 by following these instructions. These instructions subject to change based on continued bug fixes and upgrades:</i>
 
