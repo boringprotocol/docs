@@ -8,7 +8,7 @@ sidebar_position: 8
 <b>Working on the following updates:</b>
 
 ---
-<p>
+
 
 - Bug report form on dashboard
 - Bug list
