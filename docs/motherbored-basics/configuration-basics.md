@@ -3,8 +3,11 @@ sidebar_position: 5
 ---
 
 # Configuration Basics
+---
+ATTENTION: - PLEASE UPGRADE ALL NODES TO V2 - <i>NOTE: Even if you recieved a new V2 in the mail you will need to update the firmware to the new verson of V2 by following these instructions. These instructions subject to change based on continued bug fixes and upgrades:</i>
 
-UPDATED - V1 to V2 upgrade instructions: <i>Instructions subject to change based on continued bug fixes and upgrades:</i>
+---
+
 1. Download Phantom (Solana wallet).
 2. On the same device, go to https://motherbored.app/
 3. Authenticate with your Phantom wallet, sign the certificate (a button popup from your wallet), then download the associated SD card image (top right) and save it, and unzip to the same directory. You will see a new 2.5GB disk image file. 
