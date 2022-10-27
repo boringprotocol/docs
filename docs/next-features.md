@@ -5,13 +5,14 @@ sidebar_position: 8
 # Next Features
 
 ---
+
 <b>Working on the following updates:</b>
 
 ---
 
 
 - Bug report form on dashboard
-- Bug list
+- Bug list on dashboard
 - Add node operational status and country in provider access list 
 - Links to specific docs (add consumer/provider/cloud/etc)
 - Staking and NFT's
