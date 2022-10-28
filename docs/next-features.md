@@ -10,7 +10,6 @@ Working on the following updates:
 
 ---
 
-
 - Bug report form on dashboard
 - Bug list on dashboard
 - Add node operational status and country in provider access list 
