@@ -1,8 +1,8 @@
 ---
 sidebar_position: 8
 ---
-
-# Next Features and updates
+---
+# Features and updates in development
 
 ---
 
