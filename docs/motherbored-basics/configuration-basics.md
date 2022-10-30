@@ -2,15 +2,17 @@
 sidebar_position: 5
 ---
 
-## - Upgrade to Boring Protocol V2 -
+## - Upgrade The Boring Protocol V2 -
 
 ---
-ATTENTION: - PLEASE UPGRADE YOUR NODE TO V2 - <i>NOTE: Even if you recieved a new V2 in the mail you will need to update the firmware to the new verson of V2 by following these instructions. Subject to change based on continued bug fixes and upgrades:</i>
+ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V2 -
+
+ <i>NOTE: Even if you recieved a new V2 recently you will need to update the firmware to the new verson of V2 by following these instructions. Subject to change based on continued bug fixes and upgrades:</i>
 
 ---
 
 1. Download Phantom (Or any Solana wallet).
-2. On the same device, go to https://motherbored.app/ (Android users must browser in their wallet)
+2. On the same device, go to https://motherbored.app/ (Android users must use browser in the wallet app)
 3. Authenticate with your Phantom wallet, click to sign the certificate (a popup from your wallet), then download the associated SD card image (top right) and save it, and unzip to the same directory. You will see a new 2.5GB disk image file. (Current version: 2022-10-26-boring-lite) 
 4. Power down the node (unplug) and carefully remove your SD card from the Pi or Motherboard node (tweesers help) and insert it into the PC SD card slot or usa an adapter. (USB/SD adaptor does work)
 5. Use Balena Etcher (https://www.balena.io/etcher/) or Rasp Pi Imager to flash the new V2 image file to the SD card. On Windows, right-click Balena and click "Run as Administrator" 
@@ -29,3 +31,5 @@ ATTENTION: - PLEASE UPGRADE YOUR NODE TO V2 - <i>NOTE: Even if you recieved a ne
 17. Once finished, your node should be ready to use. If set to consumer mode, make sure to pick your peer in the list, then simply connect any devices you'd like to 'boring' WiFi and bore a secure path through your very own dVPN node!
 
 <b>Thank you for your patience, Boperators!!
+
+-The Boring Protocol Team
