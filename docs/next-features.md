@@ -17,7 +17,7 @@ Working on the following updates:
 - Staking and NFT's
 - Add network metrics
 
-Post anything you'd like to see in our Discord. Your patience is appreciated
+Post anything you'd like to see in our Discord. Your patience is appreciated.
 
 ---
 
