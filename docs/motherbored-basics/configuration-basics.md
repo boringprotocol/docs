@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+# Configuration Basics
 
 ## - Upgrade To Boring Protocol V2 -
 
