@@ -1,8 +1,9 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
+# Configuration Basics
 
-## - Upgrade The Boring Protocol V2 -
+## - Upgrade To Boring Protocol V2 -
 
 ---
 ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V2 -
