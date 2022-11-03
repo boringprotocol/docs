@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Note - This is a maintained list of known issues, bugs and proposed fixes. We will update each reported issue as they are considered and resolved. Thank you for your help and cooperation!
 
- - Changing configuration from consumer to provider can cause the network interface to fail on reboot. The current fix is a re-flash the sd card. Don't worry, your peer configurations have been saved in your wallet. This is a known issue and re-flashing the SD will reset the files and restore network settings. You should try to remove all the partitions on the SD card - should be two - then re-partition into one large partition, then mount or 'activate' partition, then format with exfat then re-flash the SD card with a fresh (unzipped) image file (~2.4GB) insert into node and then reboot. 
+- Changing configuration from consumer to provider can cause the network interface to fail on reboot. The current fix is a re-flash the sd card. Don't worry, your peer configurations have been saved in your wallet. This is a known issue and re-flashing the SD will reset the files and restore network settings. You should try to remove all the partitions on the SD card - should be two - then re-partition into one large partition, then mount or 'activate' partition, then format with exfat then re-flash the SD card with a fresh (unzipped) image file (~2.4GB) insert into node and then reboot.
 
 - DNS ERROR : "DNS resolution for boring.surf failed"  Are you SURE you are connected to 'boring'wifi?  If  DNS errors keep popping up try assigning a static ip to the Node through dhcp reservation. Adding a static IP and assigning the gateway and using 8.8.4.4 for DNS, resolved the DNS error in testing. We are actively working on a fix for this.
 
