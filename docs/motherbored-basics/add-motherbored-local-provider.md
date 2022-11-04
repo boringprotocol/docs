@@ -26,7 +26,7 @@ launch https://motherbored.app/ again, then PRESS ‘Activate’ (only once).
 ```
 4. Once Activated - you will see a confirmation, and the information on the bottom
  left of the node page will be filled out (ID, Kind, Boring Setupkey,
- Boring PubKey) this will confirm you are good to go and setup properly. 
+ Boring PubKey) this will confirm you are good to go and set up properly. 
 
 ```
 ```
