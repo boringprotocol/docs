@@ -1,11 +1,8 @@
 ---
 sidebar_position: 8
 ---
----
 
 # Features and updates in development
-
----
 
 Working on the following updates:
 
@@ -17,6 +14,7 @@ Working on the following updates:
 - Links to specific docs (add consumer/provider/cloud/etc)
 - Staking and NFT's
 - Add network metrics
+- Dockerized Image
 
 Post anything you'd like to see in our Discord. Your patience is appreciated.
 
