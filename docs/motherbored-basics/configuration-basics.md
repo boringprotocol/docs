@@ -23,7 +23,7 @@ ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V
 9. Connect your wallet again, then you will see your new V2 dashboard.
 10. Choose your configuration - Select ‘Add Motherbored Consumer’ OR ‘Add Local Provider,’ ‘Add Cloud Provider(Soon),’ Coming soon: ‘Add Helium Hotspot Provider'
 11. Click "Create". You will be taken to your node settings page.
-12. Make any changes to SSID or password (write it down), if in consumer mode select a local provider from the list then press SAVE Config one time. This will save the file to your wallet.  
+12. Make any changes to SSID or password (write it down), if in consumer mode select a local provider from the list then press 'SAVE Changes' one time. This will save the file to your wallet.  
 13. To activate a mode, select the configuration and press Install Config (only once). You will see the Node download a small file and reboot. (It might take a few min the first time)
 14. You will need to re-connect to ‘boring’ WiFi. The node will reboot and will kick you off WiFi again while it resets.
 15. Once config is installed and the system has rebooted, reestablish WiFi connection to the node, launch <https://motherbored.app/> again, and press ACTIVATE just once.
