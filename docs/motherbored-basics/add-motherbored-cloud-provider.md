@@ -39,9 +39,4 @@ Edit the /boot/boring.env and:
 ```
 systemctl restart boring
 ```
-NOTE: A public IP is required. Check to make sure approptiate ports are open if your server is behind a firewall. 
-
-All outbound ports should be open and Port 22 Inbound
-```
-outbound to 0.0.0.0/0 
-```
+NOTE: A public IP is required. Check to make sure appropriate ports are open if your server is behind a firewall.
