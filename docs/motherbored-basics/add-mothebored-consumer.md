@@ -8,6 +8,7 @@ sidebar_position: 2
 
 
 1. Connect to your MotherBored's WIFI (Default SSID 'boring' PW: motherbored)
+    - Launch https://motherbored.app (Andriod users must use in wallet browser)
     - Select ‘Add Motherbored Consumer' button.
     - On the next page 'NEW CONSUMER PEER' please choose the peer name you want to use. Toggle with arrow. Then press 'CREATE' once
     - On the next page configure your local WiFi settings (SSID, Password, and Channel) - Once done press 'Save Changes'. You will see the message 'Syncing peer'.
