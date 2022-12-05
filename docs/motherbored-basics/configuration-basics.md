@@ -31,6 +31,7 @@ ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V
 17. ** NOTE: If you plan to run multiple boring nodes, be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save.
 18. Once finished, your node should be ready to use. If set to consumer mode, make sure to pick your peer in the list, then simply connect any devices you'd like to 'boring' WiFi and bore a secure path through your very own dVPN node!
 
+***Please choose one configuration type and load it and do not change it at this time or you will be forced to re-flash your SD card to a fresh image to re-gain access to your node. We are working on a fix for this.***
 Thank you for your patience, Boperators!!
 
 -The Boring Protocol Team
