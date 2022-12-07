@@ -39,4 +39,4 @@ Edit the /boot/boring.env and:
 ```
 systemctl restart boring
 ```
-NOTE: A public IP is required. Check to make sure appropriate ports are open if your server is behind a firewall.
+NOTE: A public IP is required. Check to make sure appropriate ports are open if your server is behind a firewall. Cloud-providers must use ipv4. Will not work on ipv6, so if a server has only ipv6 it won't serve internet.
