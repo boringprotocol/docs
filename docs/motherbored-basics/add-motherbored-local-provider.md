@@ -39,5 +39,9 @@ If set to consumer mode mke sure to pick your peer in the list then simply conne
 any devices you want to 'boring' WIFI and bore a secure path through your very own dVPN node!
 
 ```
+Troubleshooting: - If you reflashed or re-configured your MotherBored you must delete the old configuration file and create a new file to upload if you find your node does not have internet. Again, recreate the provider file in motherbored.app and delete the old file. Then save and upload.
+
+Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using <https://boring.surf> and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored.
+(the boring.env is available to download via the [boring.env] button in the app)
 
 ** NOTE: If you plan to run multiple boring nodes - be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save.
