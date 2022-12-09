@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Add Consumer dVPN access for your node
+# Add Consumer access - Use your node to connect to a local provider to surf securly using the Boring dVPN.
 
 ## Select ‘Add Motherbored Consumer’
 
