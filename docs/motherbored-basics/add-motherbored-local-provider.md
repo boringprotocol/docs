@@ -15,16 +15,16 @@ Instructions for adding a local provider to the Boring Network to earn $BOP by p
 
 1. You will now be in your MotherBored app where you can add, remove or change your MotherBored configuration files as necessary. Choose 'Add Motherbored Provider'.
 
-1. On the next screen you will see "NEW PROVIDER PEER" and a randomized name will be generated for your node. You can change it if you like but the default is usually fine. Confirm the 'local' box is checked and press 'Create' only once. 
+1. On the next screen you will see "NEW PROVIDER PEER" and a randomized name will be generated for your node. You can change it if you like but the default is usually fine. Confirm the 'local' box is checked and press 'Create' only once.
 
 5. You will be taken to the setup page for your provider node. Here you can modify your SSID and password you will use to access the wifi in order to make configuration changes to your node. Again the WiFi for a provider node is only used to reconfigure your MotherBored if necessary.
 
 6. Once you are happy with the SSID and password and WIFI Channel (Choose one that does not interfere with existing WiFi signals) then press Save Changes only once. You will See the message "Changes saved, press install config to Activate"
 
 7. Press Install Config once. This will upload the file to your motherbored
-The Node will download any updates and reboot. (It might take a few min the first time as encryption keys are created)
+your Node will download any updates and reboot. (It might take a few min the first time as encryption keys are created)
 
-2. Once the node reboots and updates you must reconnect to the new WiFi SSID and password you created to Activate the Node on our network. Confirm you are connected to the MotherBored WiFi and launch <https://motherbored.app/> again, then PRESS ‘Activate’ (only once). This adds your encryption key and adds you to the provider list shown on consumer devices.
+2. Once the node updates and reboots you must reconnect to the new WiFi SSID and password you created to Activate the Node on our network. Confirm you are connected to the MotherBored WiFi and launch <https://motherbored.app/> again, then PRESS ‘Activate’ (only once). This adds your encryption key and adds you to the provider list shown on consumer devices.
 
 4. Once Activated - you will see a confirmation, and the information on the bottom
  left of the node page will be filled out (ID, Kind, Boring Setupkey,
