@@ -2,9 +2,9 @@
 sidebar_position: 2
 ---
 
-# Add Consumer access - Use your node to connect to a local provider to surf securly using the Boring dVPN.
+# Add Consumer access - Use your node to connect to a local provider
 
-## Select ‘Add Motherbored Consumer’
+## Select ‘Add Motherbored Consumer to surf securly using the Boring dVPN.’
 
 
 1. Connect to your MotherBored's WIFI (Default SSID 'boring' PW: motherbored)
