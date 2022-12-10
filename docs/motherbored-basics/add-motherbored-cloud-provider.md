@@ -50,3 +50,5 @@ SETUP NOTES - Adaptor is eth0 - All Ports closed - Use public IP
 - Firewall Ports: At this time we recomend keeping all ports closed. Actually, having ports closed might make it work better at the moment.
 
 - A public IP is required. Check to make sure appropriate ports are open if your server is behind a firewall. Cloud-providers must use ipv4. Will not work on ipv6, so if a server has only ipv6 it won't serve internet.
+
+- NetBird binary - Default server config has NetBird in /bin. If you have the netbird binary in /usr/bin/ instead of /bin you will need to edit the config.
