@@ -47,7 +47,7 @@ SETUP NOTES - Adaptor is eth0 - All Ports closed - Use public IP
 
 - The default ethernet adapter is configured as eth0, if your server is different (ens16), we need to modify the boring. env config file.
 
-- Firewall Ports: At this time we recomend keeping all ports closed. Actually, having ports closed might make it work better at the moment.
+- Firewall Ports: At this time we recommend keeping all ports closed. Actually, having ports closed might make it work better at the moment.
 
 - A public IP is required. Check to make sure appropriate ports are open if your server is behind a firewall. Cloud-providers must use ipv4. Will not work on ipv6, so if a server has only ipv6 it won't serve internet.
 
