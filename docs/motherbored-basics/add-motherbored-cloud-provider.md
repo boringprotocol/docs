@@ -43,9 +43,9 @@ Edit the /boot/boring.env and:
 systemctl restart boring
 ```
 
-NOTE:
+SETUP NOTES - Adaptor is eth0 - All Ports closed - Use public IP
 
-- The ethernet adapter is configured as eth0, if your server is different, we need to modify the config.
+- The default ethernet adapter is configured as eth0, if your server is different (ens16), we need to modify the boring. env config file.
 
 - Firewall Ports: At this time we recomend keeping all ports closed. Actually, having ports closed might make it work better at the moment.
 
