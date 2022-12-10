@@ -9,11 +9,14 @@ sidebar_position: 4
 
 ## SSH into your server
 
+```
 `ssh root@[IP]`
-
+```
 ## The Boring Config
 
+```
 `vi /boot/boring.env`
+```
 
 Paste the boring.env config file that was downloaded
 and save.
@@ -39,4 +42,11 @@ Edit the /boot/boring.env and:
 ```
 systemctl restart boring
 ```
-NOTE: A public IP is required. Check to make sure appropriate ports are open if your server is behind a firewall. Cloud-providers must use ipv4. Will not work on ipv6, so if a server has only ipv6 it won't serve internet.
+
+NOTE:
+
+- The ethernet adapter is configured as eth0, if your server is different, we need to modify the config.
+
+- Firewall Ports: At this time we recomend keeping all ports closed. Actually, having ports closed might make it work better at the moment.
+
+- A public IP is required. Check to make sure appropriate ports are open if your server is behind a firewall. Cloud-providers must use ipv4. Will not work on ipv6, so if a server has only ipv6 it won't serve internet.
