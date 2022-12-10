@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ## Mission Statement
 
-Boring Protocol is a customer-owned, decentralized, encrypted, and environmentally friendly dVPN. Our unique hybrid of web3 technologies, coupled with geographically distributed peer-to-peer hardware-based network nodes, can earn rewards for our network operators (Boperators). Our unique focus on privacy advocacy and education, paired with network encryption and the Solana blockchain—combine to facilitate the organic growth expected of a low cost borderless ubiquitous censorship-resistant communication network designed to benefit everyone on Earth.
+Boring Protocol is a customer-owned, decentralized, encrypted, and environmentally friendly dVPN. Our unique hybrid of web3 technologies, coupled with geographically distributed peer-to-peer hardware-based network nodes, can earn rewards for our network operators (Boperators). Our unique focus on privacy advocacy and education, paired with network encryption and the Solana blockchain, combine to facilitate the organic growth expected of a low cost borderless ubiquitous censorship-resistant communication network designed to benefit everyone on Earth.
 
 ## What is Boring Protocol?
 
