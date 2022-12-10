@@ -8,7 +8,6 @@ Instructions for adding a local provider to the Boring Network to earn $BOP by p
 
 ## ‘Adding a Motherbored Provider to the Network’
 
-
 1. Boot up your MotherBored and connect to it's WiFi (default SSID: boring pw: motherbored)
 
 1. Connect to the MotherBored app at <https://motherbored.app/> It will Prompt you to connect your Solana wallet application where you will configure and save your setup files. Sign the popup from the wallet if asked.
