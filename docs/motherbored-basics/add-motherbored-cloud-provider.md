@@ -7,7 +7,7 @@ sidebar_position: 4
 1. First create a Provider Peer in the Motherbored interface at <https://motherbored.app>
 2. Download boring.env and use this config on your server at /boot/boring.env
 
-## SSH into your server
+## SSH into your cloud provider server
 
 ```
 `ssh root@[IP]`
