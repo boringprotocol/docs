@@ -18,5 +18,6 @@ BOP has a max supply of 250,000,000. If you would like to buy/swap BOP at the cu
 
 ## What is a MotherBored?
 
-- A MotherBored is the name for Boring nodes used to provide dVPN access.
-- Available now!: [Motherbored is in stock and ready to ship - visit our store!](https://store.motherbored.limited/products/boring-protocol-mbv2)
+- The MotherBored is the name for our distributed hardware node running the Boring Protocol. The MotherBored can be configured as a dVPN Consumer or a Provider on the network.
+
+- Available now!: [Motherbored is in stock and ready to ship worldwide - visit our store!](https://store.motherbored.limited/products/boring-protocol-mbv2)
