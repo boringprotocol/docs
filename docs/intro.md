@@ -9,7 +9,7 @@ Boring Protocol is a customer-owned, decentralized, encrypted, and environmental
 
 ## What is Boring Protocol?
 
-Boring Protocol is a Web3-powered decentralized VPN, <i>or dVPN</i> built on the Solana Blockchain, allowing users to pay with BOP, the network's native token, by the Gb rather than a subscription membership. Boring Protocol utilizes the privacy of web3-based authentication and payments with BOP token incentives for node operators designed to organically grow Boring's global people-built network, and provides a peer-to-peer bandwidth market to conduct transactions between node providers and bandwidth users.
+Boring Protocol is a Web3-powered decentralized VPN, <i>or dVPN</i> built on the Solana Blockchain, allowing users to pay with BOP, the network's native token, by the Gb rather than a subscription membership. Boring Protocol utilizes the privacy of web3-based authentication and payments with BOP token incentives for node operators designed to organically grow Boring's global people-built network, and provides a peer-to-peer bandwidth market to conduct transactions between node providers and bandwidth users. We are constantly building and improving our code.
 
 ## Where can I buy BOP tokens?
 
