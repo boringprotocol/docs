@@ -8,7 +8,7 @@ sidebar_position: 1
 ---
 ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V2 -
 
-**NOTE: Even if you received a new V2 recently you will need to update the firmware to the new version of V2 by following these instructions. Subject to change based on continued bug fixes and upgrades:**
+**NOTE: Even if you received a new V2 recently you will need to update the firmware to the new version of V2 by following these instructions. Subject to change based on continued bug fixes and upgrades:** 
 
 ---
 
@@ -31,7 +31,10 @@ ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V
 17. ** NOTE: If you plan to run multiple boring nodes, be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save.
 18. Once finished, your node should be ready to use. If set to consumer mode, make sure to pick your peer in the list, then simply connect any devices you'd like to 'boring' WiFi and bore a secure path through your very own dVPN node!
 
-Troubleshooting: - If you reflashed or re-configured your MotherBored you must delete the old configuration file and create a new file to upload if you find your node does not have internet. Again, recreate the provider file in motherbored.app and delete the old file. Then save and upload.
+
+Those having DNS error issues configuring their MotherBored should download the new image (2023-01-03-boring-lite) from <https://motherbored.app/>, flash their SD cards (ensure the boot partition is removed prior to flashing), install sd, boot motherbored, connect to 'boring' wifi and configure. Let me know how it goes. Thanks for your patience!  
+
+Troubleshooting: - If you reflashed or re-configured your MotherBored you must delete the old configuration file and create a new file to upload if you find your node does not have internet. Again, recreate the provider file in motherbored.app and delete the old file. Then save and upload. 
 
 Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using https://boring.surf and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored.
 (the boring.env is available to download via the [boring.env] button in the app)
