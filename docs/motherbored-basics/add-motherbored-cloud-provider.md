@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Add Cloud Provider
 
-1. First create a Provider Peer in the Motherbored interface in the [Motherbored App!](https://store.motherbored.limited/products/boring-protocol-mbv2)
+1. First create a Provider Peer in the Motherbored interface in the [Motherbored App!](https://motherbored.app)
 
 2. Download boring.env file using the button - use this config on your server at /boot/boring.env
 
@@ -13,6 +13,7 @@ sidebar_position: 4
 ```
 `ssh root@[IP]`
 ```
+
 ## The Boring Config
 
 ```
