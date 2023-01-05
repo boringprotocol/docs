@@ -30,6 +30,6 @@ Additional Information: - If you reflashed or re-configured your Provider Mother
 
 Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using https://boring.surf and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored.
 
-(the boring.env is available to download via the [boring.env] button in the app)
+(the boring.env is available to download via the [boring.env] button in the https://motherbored.app)
 
 *** Please choose one configuration type and load it and do not change it at this time or you will be forced to re-flash your SD card to a fresh image to re-gain access to your node. We are working on a fix for this.***
