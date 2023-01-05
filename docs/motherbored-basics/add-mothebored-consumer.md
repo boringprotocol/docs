@@ -8,7 +8,7 @@ sidebar_position: 2
 
 
 1. Connect to your MotherBored's WIFI (Default SSID 'boring' PW: motherbored)
-    - Launch https://motherbored.app (Andriod users must use in wallet browser)
+    - Launch [Motherbored App!](https://motherbored.app) (Andriod users must use in wallet browser)
     - Select ‘Add Motherbored Consumer' button.
     - On the next page 'NEW CONSUMER PEER' please choose the peer name you want to use. Toggle with arrow. Then press 'CREATE' once
     - On the next page configure your local WiFi settings (SSID, Password, and Channel) - Once done press 'Save Changes'. You will see the message 'Syncing peer'.
@@ -17,7 +17,7 @@ sidebar_position: 2
 2. Once rebooted (3 min) confirm you are reconnected to your motherbored WiFi SSID to proceed. If this is the first time setting up your MotherBored proceed to the next step otherwise your MotherBored is now ready to use in Consumer Mode.
 
 3. If this is the first time setting up your MotherBored this is when you activate it. Once config is installed, the system is rebooted, and WiFi is reconnected,
- launch https://motherbored.app/ again, Select your then press ACTIVATE just once.
+ launch [Motherbored App](https://motherbored.app) again, Select your then press ACTIVATE just once.
 
 4. Once activated you will see a confirmation, and the information on the bottom left of the node page will be filled out.
  (ID, Kind, Boring Setupkey, Boring PubKey) this will confirm you are good to go and setup properly.
@@ -30,6 +30,6 @@ Additional Information: - If you reflashed or re-configured your Provider Mother
 
 Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using https://boring.surf and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored.
 
-(the boring.env is available to download via the [boring.env] button in the https://motherbored.app)
+(the boring.env is available to download via the [boring.env] button in the [Motherbored App!](https://motherbored.app))
 
 *** Please choose one configuration type and load it and do not change it at this time or you will be forced to re-flash your SD card to a fresh image to re-gain access to your node. We are working on a fix for this.***
