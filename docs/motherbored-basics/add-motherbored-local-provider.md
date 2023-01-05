@@ -10,7 +10,7 @@ Instructions for adding a local provider to the Boring Network - earn $BOP by pr
 
 1. Boot up your MotherBored and connect to it's WiFi (default SSID: boring pw: motherbored)
 
-1. Connect to the MotherBored app at <https://motherbored.app/> It will Prompt you to connect your Solana wallet application where you will configure and save your setup files. Sign the popup from the wallet if asked.
+1. Connect to your MotherBored at [Motherbored App!](https://motherbored.app) It will Prompt you to connect your Solana wallet application where you will configure and save your setup files. Sign the popup from the wallet if asked.
 
 1. You will now be in your MotherBored app where you can add, remove or change your MotherBored configuration files as necessary. Choose 'Add Motherbored Provider'.
 
@@ -23,7 +23,7 @@ Instructions for adding a local provider to the Boring Network - earn $BOP by pr
 7. Press Install Config once. This will upload the file to your motherbored
 your Node will download any updates and reboot. (It might take a few min the first time as encryption keys are created)
 
-2. Once the node updates and reboots you must reconnect to the new WiFi SSID and password you created to Activate the Node on our network. Confirm you are connected to the MotherBored WiFi and launch <https://motherbored.app/> again, then PRESS ‘Activate’ (only once). This adds your encryption key and adds you to the provider list shown on consumer devices.
+2. Once the node updates and reboots you must reconnect to the new WiFi SSID and password you created to Activate the Node on our network. Confirm you are connected to the MotherBored WiFi and launch [Motherbored App](https://motherbored.app) again, then PRESS ‘Activate’ (only once). This adds your encryption key and adds you to the provider list shown on consumer devices.
 
 4. Once Activated - you will see a confirmation, and the information on the bottom
  left of the node page will be filled out (ID, Kind, Boring Setupkey,
