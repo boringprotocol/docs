@@ -8,7 +8,7 @@ sidebar_position: 1
 ---
 ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V2 -
 
-**NOTE: Even if you received a new V2 recently you will need to update the firmware to the new version of V2 by following these instructions. Subject to change based on continued bug fixes and upgrades:** 
+**NOTE: Even if you received a new V2 recently you will need to update the firmware to the new version of V2 by following these instructions. Subject to change based on continued bug fixes and upgrades:**
 
 ---
 
@@ -36,7 +36,7 @@ Those having DNS error issues configuring their MotherBored should download the 
 
 Troubleshooting: - If you reflashed or re-configured your MotherBored you must delete the old configuration file and create a new file to upload if you find your node does not have internet. Again, recreate the provider file in motherbored.app and delete the old file. Then save and upload. 
 
-Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using https://boring.surf and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored.
+Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using <https://boring.surf/> and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored.
 (the boring.env is available to download via the [boring.env] button in the app)
 
 ***Please choose one configuration type and load it and do not change it at this time or you will be forced to re-flash your SD card to a fresh image to re-gain access to your node. We are working on a fix for this.***
