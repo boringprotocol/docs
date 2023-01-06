@@ -54,3 +54,5 @@ SETUP NOTES - Adaptor is eth0 - All Ports closed - Use public IP
 - A public IP is required. Check to make sure appropriate ports are open if your server is behind a firewall. Cloud-providers must use ipv4. Will not work on ipv6, so if a server has only ipv6 it won't serve internet.
 
 - NetBird binary - Default server config has NetBird in /bin. If you have the netbird binary in /usr/bin/ instead of /bin you will need to edit the config.
+
+- If you are an advanced user - you can view the LOG FILES AT <https://x.x.x.x:19531/browse> (REPLACE X.X.X.X W/ WAN IP ADDRESS OF YOUR MOTHERBORED) You must open the port on your cloud firewall for this to work. Be sure to close the port after done with logs.
