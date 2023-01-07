@@ -14,9 +14,9 @@ Note - This is a maintained list of known issues, bugs and proposed fixes. We wi
 
 - ** NOTE: If you plan to run multiple boring nodes - be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save.
 
-- We pushed an update designed to address the DNS error for boring.surf last night. Please re-flash your SD cards with the new 2023-01-03-boring-lite image available at <https://motherbored.app/>. The new image also includes an updated OTA (over the air) update feature that should pull in future updates upon a reboot of the node so you should not need to re-flash again.  
+- If you use a consumer to connect to a provider that is not working it is not necessary to re-flash in order to re-connect. You should be able to reach the motherbored through boring.surf to connect and change the provider to one that is working. Using the phantom in app browser on a phone seems to work more consistently.
 
-Those having DNS error issues configuring their MotherBored should download the new image from <https://motherbored.app/>, flash their SD cards (ensure the boot partition is removed prior to flashing), install sd, boot motherbored, connect to 'boring' wifi and configure. Let me know how it goes. Thanks for your patience!  
+- Those having DNS error issues configuring their MotherBored should download the new image from <https://motherbored.app/>, flash their SD cards (ensure the boot partition is removed prior to flashing), install sd, boot motherbored, connect to 'boring' wifi and configure. Let me know how it goes. Thanks for your patience!  
 
 - Changing configuration from consumer to provider can cause the network interface to fail on reboot. The current fix is a re-flash the sd card. Don't worry, your peer configurations have been saved in your wallet. This is a known issue and re-flashing the SD will reset the files and restore network settings. You should try to remove all the partitions on the SD card - should be two - then re-partition into one large partition, then mount or 'activate' partition, then format with exFAT then re-flash the SD card with a fresh (unzipped) image file (~2.4GB) insert into node and then reboot.
 
