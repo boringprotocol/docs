@@ -31,7 +31,7 @@ ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V
 17. ** NOTE: If you plan to run multiple boring nodes, be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save.
 18. Once finished, your node should be ready to use. If set to consumer mode, make sure to pick your peer in the list, then simply connect any devices you'd like to 'boring' WiFi and bore a secure path through your very own dVPN node!
 
-Those having DNS error issues configuring their MotherBored should download the new image (2023-01-03-boring-lite) from [Motherbored App](https://motherbored.app/), flash their SD cards (ensure the boot partition is removed prior to flashing), install sd, boot motherbored, connect to 'boring' wifi and configure. Let me know how it goes. Thanks for your patience!  
+If you use a consumer to connect to a provider that is not working it is not necessary to re-flash in order to re-connect to your consumer. You should be able to reach the motherbored through <https://boring.surf> to change the provider to one that is working. Use the phantom in app browser on a phone connected to the motherbored via WiFi is best.
 
 Troubleshooting: - If you reflashed or re-configured your MotherBored you must delete the old configuration file and create a new file to upload if you find your node does not have internet. Again, recreate the provider file in motherbored.app and delete the old file. Then save and upload.
 
