@@ -14,7 +14,7 @@ Note - This is a maintained list of known issues, bugs and proposed fixes. We wi
 
 - ** NOTE: If you plan to run multiple boring nodes - be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save.
 
-- If you use a consumer to connect to a provider that is not working it is not necessary to re-flash in order to re-connect. You should be able to reach the motherbored through boring.surf to connect and change the provider to one that is working. Using the phantom in app browser on a phone seems to work more consistently.
+- If your consumer connects to a provider that is not working it is not necessary to re-flash in order to re-connect and change the provider. You should be able to reach the motherbored through <https://boring.surf> to connect and change the provider to one that is working. Using the phantom in app browser on a phone seems to work more consistently.
 
 - Those having DNS error issues configuring their MotherBored should download the new image from <https://motherbored.app/>, flash their SD cards (ensure the boot partition is removed prior to flashing), install sd, boot motherbored, connect to 'boring' wifi and configure. Let me know how it goes. Thanks for your patience!  
 
