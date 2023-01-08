@@ -22,7 +22,7 @@ Post anything you'd like to see in our Discord. Your patience is appreciated.
 
 The minting for our utility NFT will begin Friday, Oct 28th at 10 am CST
 
-- We pushed an update designed to address the DNS error for boring.surf 1/3/23. Please re-flash your SD cards with the new 2023-01-03-boring-lite image available at <https://motherbored.app/>. The new image also includes an updated OTA (over the air) update feature that should pull in future updates upon a reboot of the node so you should not need to re-flash again.  
+- If your consumer connects to a provider that is not working it is not necessary to re-flash in order to re-connect and change the provider. You should be able to reach the motherbored through <https://boring.surf> to connect and change the provider to one that is working. Using the phantom in app browser on a phone seems to work more consistently.
 
 - The V1/V2 & Boperator VX NFTs serve to activate core functionality for the Boring Network and will be minted for all early buyers of our V1, V2, and SD cards.
 Boperator VX NFT
