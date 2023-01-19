@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Add Consumer access - Use your node to connect to a local provider
+# Add Consumer access - Use your MotherBored to connect to a local provider
 
 ## Select ‘Add Motherbored Consumer to surf securly using the Boring dVPN.’
 
