@@ -12,7 +12,7 @@ Note - This is a maintained list of known issues, bugs and proposed fixes. We wi
 
 - Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using <https://boring.surf> and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored. (the boring.env is available to download via the [boring.env] button in the app)
 
-- ** NOTE: If you plan to run multiple boring nodes - be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save.
+- If you plan to run multiple boring nodes - be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save.
 
 - If your consumer connects to a provider that is not working it is not necessary to re-flash in order to re-connect and change the provider. You should be able to reach the motherbored through <https://boring.surf> to connect and change the provider to one that is working. Using the phantom in app browser on a phone seems to work more consistently.
 
@@ -32,4 +32,4 @@ Note - This is a maintained list of known issues, bugs and proposed fixes. We wi
 - Change install config button state if user not connected to the right wifi network
 - In general hide buttons that would disrupt any process if clicked out of sequence
 
-Working on displaying basic FAQ page showing workflows in this phase, including temporary solutions. We appreciate your patience!
+- Working on displaying basic FAQ page showing workflows in this phase, including temporary solutions. We appreciate your patience!
