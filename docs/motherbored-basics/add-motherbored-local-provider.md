@@ -31,7 +31,7 @@ your Node will download any updates and reboot. (It might take a few min the fir
 
 5. Once finished, your node should be set and ready to provide secure access for consumers. Sit back relax and enjoy the rewards. (Coming soon)
 
-Troubleshooting: - If you reflashed or re-configured your MotherBored you must delete the old configuration file and create a new file to upload if you find your node does not have internet. Again, recreate the provider file in motherbored.app and delete the old file. Then save and upload.
+NOTES:
 
 Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using <https://boring.surf> and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored.
 (the boring.env is available to download via the [boring.env] button in the app)
