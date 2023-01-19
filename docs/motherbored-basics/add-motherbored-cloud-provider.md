@@ -33,8 +33,6 @@ chmod +x install.sh
 ./install.sh
 ```
 
-Congrats, you're done!
-
 ---
 
 ### Forgot to get the config? or need to use a different config
