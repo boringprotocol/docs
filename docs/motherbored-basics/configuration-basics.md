@@ -39,6 +39,5 @@ NOTES:
 (the boring.env is available to download via the [boring.env] button in the app)
 
 - ***Please choose one configuration type and load it and do not change it at this time or you will be forced to re-flash your SD card to a fresh image to re-gain access to your node. We are working on a fix for this.***
-Thank you for your patience, Boperators!!
 
 - The Boring Protocol Team
