@@ -6,8 +6,6 @@ sidebar_position: 7
 
 Note - This is a maintained list of known issues, bugs and proposed fixes. We will update each reported issue as they are considered and resolved. Thank you for your help and cooperation!
 
-- Troubleshooting: - If you reflashed or re-configured your MotherBored you must delete the old configuration file and create a new file to upload if you find your node does not have internet. Again, recreate the provider file in motherbored.app and delete the old file. Then save and upload.
-
 - If you are an advanced user - you can view the LOG FILES AT https://x.x.x.x:19531/browse (REPLACE X.X.X.X W/ LAN IP ADDRESS OF YOUR MOTHERBORED) You must be on the same lan as your motherbored for this to work.
 
 - Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using <https://boring.surf> and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored. (the boring.env is available to download via the [boring.env] button in the app)
