@@ -31,6 +31,4 @@ Boperator VX NFT
 - Friday, Oct 28th at 10 am CST (barring the unforeseen), we will release the directive and URL for all V1/V2 & Boperator VX NFT software license claims as NFTs. Hardware purchasers must use the email they used when ordering and a Solana Wallet to claim their NFTs.
 - Again, as these NFTs operate as software licenses, they must be kept in the wallet to receive platform rewards multipliers. Boperator NFTs must be kept in a wallet attached to your node to keep it active on the network. From Friday forward, new node operators will need to download the free updated software from www.motherboard.app and mint their Boperator NFT to activate newly purchased nodes.
 
-- NOTE: NFT license activations will NOT be immediately enforced! Do not feel a need to rush through this process. We will give everyone plenty of time to get their NFT’s minted and set up in their wallets.
-
 We will not sell any of the Boperator NFTs for DIY nodes - who download FREE firmware - until after the mobile application is live and the economics of the $BOP token is in full swing.
