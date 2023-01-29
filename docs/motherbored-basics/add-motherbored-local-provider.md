@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Add Local Provider - ($BOP Rewards coming soon)
+# Add Local Provider - ($BOP Rewards have started!)
 
 Instructions for adding a local provider to the Boring Network - earn $BOP by providing internet security and access for Boperator Consumers. Instructions are subject to change based on developer updates:
 
