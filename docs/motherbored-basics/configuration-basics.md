@@ -12,7 +12,7 @@ ATTENTION: - FOLLOW THESE INSTRUCTIONS TO UPGRADE THE FIRMWARE ON YOUR NODE TO V
 
 ---
 
-1. Download Phantom (Or any Solana wallet).
+1. Download Phantom (Or any Solana wallet). [Phantom Wallet link](https://phantom.app/)
 2. Use PC browser to access [motherbored app](https://motherbored.app)
 3. Authenticate with your Phantom wallet, click to sign the certificate (a popup from your wallet), then download the associated SD card image (top right) and save it, and unzip to the same directory. You will see a new 2.5GB disk image file. (Current version: 2022-10-26-boring-lite)
 4. Power down the node (unplug) and carefully remove your SD card from the Pi or Motherboard node (tweezers help) and insert it into the PC SD card slot or usa an adapter. (USB/SD adaptor does work)
