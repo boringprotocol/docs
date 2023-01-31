@@ -20,8 +20,6 @@ Note - This is a maintained list of known issues, bugs and proposed fixes. We wi
 
 - DNS ERROR : "DNS resolution for boring.surf failed"  Are you SURE you are connected to 'boring' wifi?  If  DNS errors keep popping up try assigning a static ip to the Node through dhcp reservation. Adding a static IP and assigning the gateway and using 8.8.4.4 for DNS, resolved the DNS error in testing. We are actively working on a fix for this.
 
-- Provider not online or gone forever (still listed, or still connected to as consumer target)
-
 - Clarify what cloud and local providers are (Docs page entries for set-up for each)
 - Listed/not listed provider status fed to a consumer peers status page.
 - Randomized provider switching (not in this phase)
