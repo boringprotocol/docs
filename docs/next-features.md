@@ -12,7 +12,6 @@ Working on the following updates:
 - Bug list on dashboard
 - Add node operational status and country in provider access list
 - Links to specific docs (add consumer/provider/cloud/etc)
-- Staking and NFT's
 - Add network metrics
 - Dockerized Image
 
