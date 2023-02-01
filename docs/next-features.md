@@ -13,6 +13,7 @@ Working on the following updates:
 - Links to specific docs (add consumer/provider/cloud/etc)
 - Add network metrics
 - Dockerized Image
+- Mobile application
 
 Post anything you'd like to see in our Discord. Your patience is appreciated.
 
