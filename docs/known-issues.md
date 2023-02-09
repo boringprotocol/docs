@@ -10,15 +10,13 @@ Note - This is a maintained list of known issues, bugs and proposed fixes. We wi
 
 - Also, if you experience issues configuring via wifi, instead of re-flashing, you can drop the boring.env file onto the boot partition using <https://boring.surf> and just reboot. This is quicker than flashing and if it isn't a bad flash, there's no real reason to reflash again unless you cannot access the MotherBored. (the boring.env is available to download via the [boring.env] button in the app)
 
-- If you plan to run multiple boring nodes - be sure to change the SSID at the bottom of the page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save. Limit one local provider per public ip.
+- If you plan to run multiple boring nodes - be sure to change the SSID at the bottom of the configuration page so you can connect to your node again - (ex., Change to boring2, boring3, etc.) - then save. Limit one local provider per public ip.
 
 - If your consumer connects to a provider that is not working it is not necessary to re-flash in order to re-connect and change the provider. You should be able to reach the motherbored through <https://boring.surf> to connect and change the provider to one that is working. Using the phantom in app browser on a phone seems to work more consistently.
 
 - Those having DNS error issues configuring their MotherBored should download the new image from <https://motherbored.app/>, flash their SD cards (ensure the boot partition is removed prior to flashing), install sd, boot motherbored, connect to 'boring' wifi and configure. Let me know how it goes. Thanks for your patience!  
 
 - Changing configuration from consumer to provider can cause the network interface to fail on reboot. The current fix is a re-flash the sd card. Don't worry, your peer configurations have been saved in your wallet. This is a known issue and re-flashing the SD will reset the files and restore network settings. You should try to remove all the partitions on the SD card - should be two - then re-partition into one large partition, then mount or 'activate' partition, then format with exFAT then re-flash the SD card with a fresh (unzipped) image file (~2.4GB) insert into node and then reboot.
-
-- DNS ERROR : "DNS resolution for boring.surf failed"  Are you SURE you are connected to 'boring' wifi?  If  DNS errors keep popping up try assigning a static ip to the Node through dhcp reservation. Adding a static IP and assigning the gateway and using 8.8.4.4 for DNS, resolved the DNS error in testing. We are actively working on a fix for this.
 
 - Clarify what cloud and local providers are (Docs page entries for set-up for each)
 - Randomized provider switching (not in this phase)
