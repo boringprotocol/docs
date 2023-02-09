@@ -22,8 +22,7 @@ Note - This is a maintained list of known issues, bugs and proposed fixes. We wi
 
 - Clarify what cloud and local providers are (Docs page entries for set-up for each)
 - Randomized provider switching (not in this phase)
-- Find new provider if this one drops (yes/no - not in this phase. An explicit setting to prevent provider switching if that is the user's preference)
-- Provider status - Set message to warn consumer to find a new provider from dropdown list
+- Find new provider if this one drops (yes/no - not in this phase. An explicit setting to prevent provider switching if that is the user's preference
 - Change install config button state if user not connected to the right wifi network
 - In general hide buttons that would disrupt any process if clicked out of sequence
 
