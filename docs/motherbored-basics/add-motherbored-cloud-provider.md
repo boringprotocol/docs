@@ -20,12 +20,12 @@ sidebar_position: 4
 `vi /boot/boring.env`
 ```
 
-Paste the boring.env config file that was downloaded
+- Paste the boring.env config file that was downloaded
 and save.
 
 ## The Boring Installer
 
-Download and run the installer.
+- Download and run the installer.
 
 ```
 wget https://s3.us-east-2.amazonaws.com/boringfiles.dank.earth/install.sh
@@ -37,7 +37,8 @@ chmod +x install.sh
 
 ### Forgot to get the config? or need to use a different config
 
-Edit the /boot/boring.env and:
+
+- Edit the /boot/boring.env and:
 
 ```
 systemctl restart boring
