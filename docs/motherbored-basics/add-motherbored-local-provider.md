@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Instructions for adding a local provider to the Boring Network - earn $BOP by providing internet security and access for Boperator Consumers. Instructions are subject to change based on developer updates:
 
-## ‘Adding a Motherbored Provider to the Network’
+## Adding a Motherbored Provider to the Network
 
 1. Boot up your MotherBored and connect to it's WiFi (default SSID: boring pw: motherbored)
 
