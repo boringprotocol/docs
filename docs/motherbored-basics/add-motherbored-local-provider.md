@@ -29,7 +29,7 @@ your Node will download any updates and reboot. (It might take a few min the fir
  left of the node page will be filled out (ID, Kind, Boring Setupkey,
  Boring PubKey) this will confirm you are good to go and set up properly.
 
-5. Once finished, your node should be set and ready to provide secure access for consumers. Sit back relax and enjoy the rewards.
+5. Once finished, your node should be set and ready to provide secure access for consumers. Sit back relax and enjoy the rewards currently in beta and working on a standard schedule.
 
 NOTES:
 
